@@ -13,7 +13,7 @@ class Controller {
         $this->container = $container;
     }
 
-    public function render($response, $name, $params =[]) {
+    public function render($response, $name, $params = []) {
         $this->container->view->render($response, $name, $params);
     }
 

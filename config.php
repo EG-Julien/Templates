@@ -7,4 +7,4 @@
 $dbuser     = "root";
 $dbpassword = "root";
 $dbhost     = "localhost";
-$dbname     = "default";
+$dbname     = "console.elektra.cc";

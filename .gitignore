@@ -1,5 +1,6 @@
 #Phpstorm Config
 .idea
+vendor
 
 # Windows image file caches
 Thumbs.db
